@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "351bc5f99bac4f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a90e9a6d87bebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b27e845d449e1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Linux/2.网络编程/2025.4.22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.4.22"
+            }
+          },
+          {
+            "id": "cd57e7b810d0d234",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-10 22.13.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-10 22.13.01.excalidraw"
+            }
+          },
+          {
+            "id": "a4edab096dad6314",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "c2254f137b0c9fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Linux/2.网络编程/Day37 2025.4.24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day37 2025.4.24"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "137ee3d529906663",
+    "type": "split",
+    "children": [
+      {
+        "id": "434074f348d76e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bbfdd67a585234",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "643455c885b335c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "537633f0a046a257",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "09c5c18a583b8cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f2b373f3769b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eeefe62e523f7f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPP项目/项目.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "项目 的反向链接列表"
+            }
+          },
+          {
+            "id": "64b420d96751f256",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPP项目/项目.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "项目 的出链列表"
+            }
+          },
+          {
+            "id": "3741dd60c397bdc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b701b8f5a0f3bf6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.Linux/1.文件系统及进程编程/Day28 2025.4.11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Day28 2025.4.11 的大纲"
+            }
+          },
+          {
+            "id": "c80776d04f6eaa23",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "93643e5b423730c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3e7c107b8b7a9ae5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "eee3cfec9801d37c",
+  "lastOpenFiles": [
+    "2.Linux/2.网络编程/Day37 2025.4.24.md",
+    "2.Linux/1.文件系统及进程编程/Day22(下) 2025.4.3.md",
+    "2.Linux/1.文件系统及进程编程/Day28 2025.4.11.md",
+    "2.Linux/2.网络编程/Day36 2025.4.22.md",
+    "2.Linux/2.网络编程/Day35 2025.4.21.md",
+    "2.Linux/2.网络编程/Day34 2025.4.18.md",
+    "2.Linux/2.网络编程/Day33 2025.4.17 预习.md",
+    "2.Linux/2.网络编程/Day32 2025.4.17.md",
+    "2.Linux/2.网络编程/Day31 2025.4.16.md",
+    "2.Linux/2.网络编程/Day30 2025.4.15.md",
+    "2.Linux/2.网络编程/Day29 2025.4.14.md",
+    "未命名看板.md",
+    "Excalidraw/Drawing 2025-04-24 17.20.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-10 22.13.01.excalidraw.md",
+    "就业.md",
+    "未命名.md",
+    "CPP项目/基于 gRPG及微服务架构的分布式聊天系统/速成.md",
+    "2.Linux/1.文件系统及进程编程/Day27 2025.4.10.md",
+    "Leetcode/Day3 红蓝染色法.md",
+    "CPP项目/词法分析/实现.md",
+    "2.Linux/1.文件系统及进程编程/Day16 2025.3.27.md",
+    "image-20250415174956745 1.png",
+    "image-20250415174956745.png",
+    "CPP项目/基于 gRPG及微服务架构的分布式聊天系统/精简.md",
+    "2.Linux/2.网络编程",
+    "2.Linux/1.文件系统及进程编程/Day24 2025.4.7.md",
+    "2.Linux/1.文件系统及进程编程",
+    "2.Linux/Day29 2025.4.12.md",
+    "CPP项目/词法分析/速成.md",
+    "2.Linux/Day 28 2025.4.11.md",
+    "未命名.canvas",
+    "CPP项目/基于 gRPG及微服务架构的分布式聊天系统",
+    "Excalidraw",
+    "CPP项目/词法分析",
+    "Leetcode",
+    "1.C 语言/Day7 2025.3.17",
+    "CPP项目/C++ Micro Services",
+    "CPP项目",
+    "2.Linux",
+    "未命名 1.canvas"
+  ]
+}
